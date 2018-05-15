@@ -1,4 +1,4 @@
-# CSC132-FinalProject
+# CSC132-FinalProject 
 
 import RPi.GPIO as GPIO
 from time import sleep
